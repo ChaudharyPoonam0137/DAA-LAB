@@ -1,0 +1,10 @@
+Enter the number of input : 6
+1
+Enter the elements to be sorted :
+2
+32
+45
+13
+10
+65
+The Sorted array is : 10 12 13 32 45 65 
