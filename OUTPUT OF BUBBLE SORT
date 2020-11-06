@@ -1,0 +1,10 @@
+Enter number of elements of array: 4
+Enter the array elements: 11
+45
+23
+9
+Unsorted array:
+11 45 23 9
+Sorted array:
+9 11 23 45
+
