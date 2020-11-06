@@ -1,0 +1,11 @@
+Enter the number of elements you want to enter in the array:5
+
+Enter array elements
+55
+19
+87
+2
+22
+
+inserted elements in sorted order are:
+2 19 22 55 87
